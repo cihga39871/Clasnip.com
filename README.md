@@ -1,5 +1,4 @@
 **This is an announcement for an upcoming Clasnip server maintenance on October 1, 2021. The maintenance may take up to 48 hours.**
-----------
 
 
 # [Clasnip.com](http://www.clasnip.com)
