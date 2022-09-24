@@ -1,5 +1,5 @@
 
-> Caution: we are unable to provide Clasnip service due to the Fiona hurricane. We may resume the service after Sep 26.
+## Notice: we are unable to provide Clasnip service due to the Fiona hurricane. We may resume the service after Sep 26.
 
 # [Clasnip.com](http://www.clasnip.com)
 Closely-related microorganism classification based on SNPs &amp; multilocus sequencing typing (MLST).
