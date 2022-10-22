@@ -1,3 +1,5 @@
+Clasnip server is down due to power outage. It will be recovered before Oct. 24.
+
 # [Clasnip.com](http://www.clasnip.com)
 Closely-related microorganism classification based on SNPs &amp; multilocus sequencing typing (MLST).
 
