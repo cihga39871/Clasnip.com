@@ -2,6 +2,8 @@
 # [Clasnip.com](http://www.clasnip.com)
 Closely-related microorganism classification based on SNPs &amp; multilocus sequencing typing (MLST).
 
+## Note: Server upgrade from March 23 15:00 to March 23 20:00 ADT 
+
 The GitHub page is for technical supports. To start a new classification analysis, please move to [Clasnip.com](http://www.clasnip.com).
 
 If you use Clasnip web service, please cite:
