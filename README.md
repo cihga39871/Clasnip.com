@@ -1,3 +1,4 @@
+# Due to power outage, Clasnip is not available for several hours. -- 4PM, May 16, 2023
 
 # [Clasnip.com](http://www.clasnip.com)
 Closely-related microorganism classification based on SNPs &amp; multilocus sequencing typing (MLST).
