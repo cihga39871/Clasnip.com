@@ -1,4 +1,9 @@
 # [Clasnip.com](http://www.clasnip.com)
+
+## Notice
+
+**Clasnip will have a system upgrade at 17:00, June 7 (GMT-3). It might take 1-2 days. During the upgrade, you cannot analyse or browse reports. Thank you for your understanding.**  
+
 Closely-related microorganism classification based on SNPs &amp; multilocus sequencing typing (MLST).
 
 The GitHub page is for technical supports. To start a new classification analysis, please move to [Clasnip.com](http://www.clasnip.com).
