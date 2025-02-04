@@ -1,0 +1,8 @@
+name = "ClasnipDocumentation"
+uuid = "d219f69a-b8c5-4c2d-8037-56dad3ee9817"
+version = "2.5.0"
+
+[deps]
+
+[compat]
+julia = "^1.11"
