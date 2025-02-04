@@ -5,7 +5,7 @@ Closely-related microorganism classification based on SNPs &amp; multilocus sequ
 
 ## Documentation
 
-[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://cihga39871.github.io/Clasnip.com/stable)
+[![](https://img.shields.io/badge/docs-blue.svg)](https://cihga39871.github.io/Clasnip.com/dev)
 
 
 ## Citation
