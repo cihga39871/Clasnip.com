@@ -1,0 +1,5 @@
+nginx_server.private.conf
+*secret*
+*private*
+.vstags
+.vscode
