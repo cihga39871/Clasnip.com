@@ -1,4 +1,5 @@
 using Documenter
+using ClasnipDocumentation
 
 makedocs(
     sitename="Clasnip Documentation",
@@ -11,6 +12,5 @@ makedocs(
 
 
 deploydocs(
-    repo = "github.com/cihga39871/Clasnip.com.git",
-    devbranch = "main"
+    repo = "github.com/cihga39871/Clasnip.com.git"
 )
