@@ -1,6 +1,6 @@
 
 
-# Create a new Clasnip database
+# Creating new database
 
 Clasnip performs sample classification based on specialized databases. The Clasnip database is constructed with input samples with group labels, and one of the samples is marked as a reference. An input sample is a nucleotide sequence, or a collection of nucleotide sequences in the FASTA format. A sample can have sequences of a single gene, multiple genes, contigs, or even a genome. Users do not need to create any alignment file before submitting.
 
@@ -75,8 +75,8 @@ After uploading the database file, user need to select a reference sequence from
 
 If the samples are too diverse to be mapped using a single reference, we can
 
-- Click "**Build pangenome**". This function is useful when no reference sequence can represent all groups in the database. You can choose one reference sequence, and a pangenome will be built based on the sequence. The unmapped region of other sequences will be appended to the pangenome, and the pangenome will be the reference genome.
-- If the previous method does not generate good mapping results, you can also **manually create a pangenome**, and added the pangenome as a normal FASTA file in the database. Select this as reference, and click "**Exclude reference in classification**". This option is useful when the reference is artificial and only used for a better alignment.
+- Click "**build pangenome**". This function is useful when no reference sequence can represent all groups in the database. You can choose one reference sequence, and a pangenome will be built based on the sequence. The unmapped region of other sequences will be appended to the pangenome, and the pangenome will be the reference genome.
+- If the previous method does not generate good mapping results, you can also **manually create a pangenome**, and added the pangenome as a normal FASTA file in the database. Select this as reference, and click "**exclude reference in classification**". This option is useful when the reference is artificial and only used for a better alignment.
 
 ### Submit
 

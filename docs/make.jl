@@ -6,8 +6,10 @@ makedocs(
     pages = [
         "Clasnip Documentation" => "index.md",
         "Manual" => "manual.md",
+        "New Analysis" => "new_analysis.md",
+        "Job Reports" => "reports.md",
         "Database Information" => "db_info.md",
-        "Create a new Clasnip database" => "create_db.md",
+        "Create New Database" => "create_db.md",
         "Algorithm" => "algorithm.md",
         "Change Log" => "changelog.md"
     ]
