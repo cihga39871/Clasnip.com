@@ -29,7 +29,7 @@ To create a Clasnip database, users need to provide the following information:
 You need to upload a **compressed** database folder to Clasnip. The folder shall contain several sub-folders holding sequences in FASTA format. Each **sub-folder** is considered as a group, and each **FASTA file** is considered as a sample.
 
 !!! details "What is the FASTA format?"
-    A sequence in FASTA format begins with a single-line description, followed by lines of sequence data. The description line (defline) is distinguished from the sequence data by a greater-than (">") symbol at the beginning. An example sequence in FASTA format is:
+    A FASTA files can contain more than one sequences. A sequence in FASTA format begins with a single-line description, followed by lines of sequence data. The description line (defline) is distinguished from the sequence data by a greater-than (">") symbol at the beginning. An example sequence in FASTA format is:
 
     ```fasta
     >Name1 description
