@@ -7,7 +7,6 @@ makedocs(
     sitename="Clasnip Documentation",
     pages = [
         "Clasnip Documentation" => "index.md",
-        "Manual" => "manual.md",
         "New Analysis" => "new_analysis.md",
         "Job Reports" => "reports.md",
         "Database Information" => "db_info.md",
