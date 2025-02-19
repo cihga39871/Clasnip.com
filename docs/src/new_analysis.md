@@ -14,7 +14,7 @@ Users need to enter query sequence(s) and choose database(s).
     Caution: multiple sequences are considered as different fragments from ONE sample. Results are based on the sample, not each fragment.
     
     !!! details "What is the FASTA format?"
-        A FASTA files can contain more than one sequences. A sequence begins with a single-line description, followed by lines of sequence data. The description line (defline) is distinguished from the sequence data by a greater-than (`>`) symbol at the beginning. An example sequence in FASTA format is:
+        A FASTA file can contain more than one sequences. A sequence begins with a single-line description, followed by lines of sequence data. The description line (defline) is distinguished from the sequence data by a greater-than (`>`) symbol at the beginning. An example sequence in FASTA format is:
     
         ```
         >Name1 description
