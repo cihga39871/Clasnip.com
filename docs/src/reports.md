@@ -56,11 +56,12 @@ If you choose more than one database, you will see the blue info section above C
 
 - **PROBABILITY**: the likelihood of the sample is classified to this **GROUP**.
 
+!!! note "The term, SNP, used in Clasnip"
+    Clasnip treats SNP, insert and deletion in the same way, and does not distinguish them when computing SNP scores. So the term "SNP" used in Clasnip includes both SNP and INDEL.
+
 If the deviation of two groups' **PERCENT MATCHED** are small, please double-check the exact SNP variations in the MLST table.
 
 If **COVERED SNP SCORE** is small, it probably means insufficient SNPs were covered by your query sequences, so **PERCENT MATCHED** may be stochastic and not predicted precisely.
-
-> The classification accuracy is based on your query sequences and the public database. Although some warning messages might shown in some cases, they might not cover all aspects. Clasnip uses HMM models and statistics to generate the report, and does not guarantee the analysis is accurate, nor take responsibility of any party drawing conclusions based on Clasnip.
 
 ### Options to filter results
 
@@ -82,7 +83,7 @@ The plots are interactive, and you can
 - **zoom** or **pan** plots using mouse.
 - **quick double click** for auto scale.
 
-!!! warning
+!!! warning "Web Performance"
     Some plots might be very big and take a while to show and resize.
 
 
@@ -132,3 +133,6 @@ The query sequences provided by the user.
 ## Log Info
 
 The log / debug information of the analysis.
+
+!!! warning "Warning"
+    Clasnip reports are based on your query sequences and the public databases you selects. Although some warning messages might shown in some cases, they might not cover all aspects. Clasnip uses HMM models and statistics to generate the report, and does not guarantee truth, nor take responsibility of any party drawing conclusions based on Clasnip. Use and interpretation of Clasnip at your own risk.
