@@ -8,6 +8,16 @@ The last job's ID is saved here, you can press ENTER or the send button on the r
 
 ![](assets/report_query.png)
 
+!!! details "Format of Job ID"
+    ```
+    [TASK-ID[.TASK-ID...]//]SEQUENCE-UUID.DATABASE-ID[.DATABASE-ID...]
+    ```
+    - **TASK-ID**: (Optional) a numeric task ID related to the job. It may expire because Clasnip cleans task information regulary.
+    - **SEQUENCE-UUID**: A label used to uniquely identify the sample in Clasnip.
+    - **DATABASE-ID**: A database ID. Even if the database is updated with a newer ID, the old job report is still accessible using the old database ID.
+    - **`[]`**: Enclosed content is optional.
+    - **`...`**: Multiple occurances allowed.
+
 ## Job Status
 
 ![](assets/reports_job.png)
